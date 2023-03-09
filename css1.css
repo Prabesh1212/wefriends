@@ -1,0 +1,82 @@
+body{
+    background-image: url(hands.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   
+}
+.nav{
+    background-color: #af63635c;
+    overflow: auto;
+    border-radius: 10px;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 110%;
+    font-family: Comic Sans MS;
+    font-style: bold;
+}
+.nav li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+    padding-bottom: 20px;
+    font-style: bold;
+}
+.head{
+    text-align: center;
+    font-size: 50px;
+}
+.para{
+    font-size: 195%;
+    /* border:solid black;
+    border-radius: 7px; */
+    padding: 10px;
+    /* background-color: rgb(218 218 165 / 18%); */
+    
+}
+.dev{ border:solid black;
+    border-radius: 7px;
+    background-color: rgb(218 218 165 / 18%);
+    margin-top: 10px;
+}
+.click{
+    border-radius: 7px;
+    background-color: antiquewhite;
+    text-decoration: none;
+    color: black;
+    align-items: center;
+    font-size: 150%;
+    margin-left: 25%;
+    margin-bottom: 10px;
+}
+.we{
+    width: 70%;
+    height: 70%;    
+}
+.we1{
+    width: 70%;
+    height: 70%;    
+    float: right;
+}
+.para1{
+    margin-top: 50px;
+    font-size: 110%;
+    font-family: comic sans MS;
+}
+.name{
+    float: right;
+    border-radius: 7px;
+    font-family: comic sans MS;
+    font-size: 50px;
+}
+.name2{
+    border-radius: 7px;
+    font-family: comic sans MS;
+    font-size: 50px;
+}
+.para3{
+    font-size: 150%;
+    border: solid black;
+}
